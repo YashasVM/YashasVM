@@ -1,7 +1,7 @@
 # Hey there! I'm Yashas V.M 👋
 
 ```bash
-yashas.vm@portfolio:~$ whoami
+yashas.vm:~$ whoami
 ```
 
 **17-year-old tech enthusiast** from Bengaluru, Karnataka | XII Science (PCMC) Student at JNVD
@@ -66,5 +66,5 @@ $ cat /etc/interests
 </p>
 
 ```bash
-yashas.vm@portfolio:~$ exit
+yashas.vm:~$ exit
 ```
