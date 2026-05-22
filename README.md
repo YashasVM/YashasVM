@@ -4,7 +4,7 @@
 yashas.vm:~$ whoami
 ```
 
-**17-year-old tech enthusiast** from Bengaluru, Karnataka | XII Science (PCMC) Student at JNVD
+**17 year old tech enthusiast** from Bengaluru, Karnataka | XII Science (PCMC) Student at JNVD
 
 > Self-hosting advocate who loves breaking things just to end up fix them again.
 
