@@ -16,13 +16,13 @@ yashas.vm:~$ whoami
 $ nano /etc/interests
 ```
 
-- 🏠 Hosting everything locally & home labbing
-- 🌐 Networking & infrastructure tinkering
-- 🤖 Experimenting with LLMs & generative models
-- 🐍 Python enthusiast
-- 🔧 Fixing old or broken computer parts
-- 🛠️ Building alternative to things which I feel are shit or unusable
-- 🛡️ Security - Running my own SIEM (Wazuh)
+- Hosting everything locally & home labbing
+- Networking & infrastructure tinkering
+- Experimenting with LLMs & generative models
+- Python enthusiast
+- Fixing old or broken computer parts
+- Building alternative to things which I feel are shit or unusable
+- Security - Running my own SIEM (Wazuh)
 
 ---
 
