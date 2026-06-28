@@ -59,7 +59,7 @@ $ nano /etc/interests
 
 ## Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-yashasvm0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashasvm0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-admin5%40duck.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:admin5@duck.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YashasVM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YashasVM)
 [![GitHub](https://img.shields.io/badge/GitHub-YashasVM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashasVM)
 [![Instagram](https://img.shields.io/badge/Instagram-yashas.vm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yashas.vm)
