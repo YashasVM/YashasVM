@@ -22,7 +22,6 @@ $ nano /etc/interests
 * 🐍 Building projects with Python
 * ⛓️‍💥 Fixing old or broken computer hardware
 * 🏗️ Building alternatives to things I find unusable
-* 🔐 Running my own Wazuh SIEM
 
 ---
 
