@@ -1,10 +1,8 @@
-# Hey there! I'm Yashas V.M 👋
-
 ```bash
 yashas.vm:~$ whoami
 ```
 
-**18-year-old tech enthusiast** from Bengaluru, Karnataka.
+**Hey, I am yashas 18-year-old tech enthusiast** from Bengaluru, Karnataka.
 
 > Self-hosting advocate who loves breaking things, only to fix them again.
 
