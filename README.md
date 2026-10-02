@@ -2,7 +2,7 @@
 yashas.vm:~$ whoami
 ```
 
-**Hey, I am yashas 18-year-old tech enthusiast** from Bengaluru, Karnataka.
+*18-year-old tech enthusiast* from Bengaluru, Karnataka.
 
 > Self-hosting advocate who loves breaking things, only to fix them again.
 
