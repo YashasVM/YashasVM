@@ -1,5 +1,5 @@
 ```bash
-yashas.vm:~$ whoami
+bb-1@arch:~$ ssh bb-1@192.168.1.5
 ```
 
 *18-year-old tech enthusiast* from **ಬೆಂಗಳೂರು, ಕರ್ನಾಟಕ (Bengaluru, Karnataka)**.
@@ -14,5 +14,5 @@ yashas.vm:~$ whoami
 </p>
 
 ```bash
-yashas.vm:~$ exit
+bb-1@arch:~$ exit
 ```
