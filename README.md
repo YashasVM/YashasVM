@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="YashasVM"/>
+<img src="./ascii.svg" width="620" alt="ASCII T. rex"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
@@ -55,10 +55,11 @@ Modernized fork of Sha: clearer UI, cleaner code, faster WebRTC file transfers.
 <img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
 Every graphic here is generated, not embedded from anyone else's server.<br>
-`ascii.svg` is a photo pushed through a character ramp by<br>
+`ascii.svg` is a T. rex pushed through a character ramp by<br>
 [`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
 section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
 straight from the GitHub GraphQL API, once a day.
 
 Design and scripts adapted from [andriidrok1](https://github.com/andriidrok1/andriidrok1).
+T. rex art by [myfavoritedinosaur.com and LadyofHats](https://commons.wikimedia.org/wiki/File:Tyrannosaurus_Rex_colored.png), CC BY 3.0.
 Typeface: [JetBrains Mono](scripts/fonts).
