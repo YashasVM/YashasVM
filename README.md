@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="620" alt="ASCII T. rex"/>
+<img src="./dino.svg" width="620" alt="ASCII T. rex"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
@@ -55,7 +55,7 @@ Modernized fork of Sha: clearer UI, cleaner code, faster WebRTC file transfers.
 <img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
 Every graphic here is generated, not embedded from anyone else's server.<br>
-`ascii.svg` is a T. rex pushed through a character ramp by<br>
+`dino.svg` is a T. rex pushed through a character ramp by<br>
 [`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
 section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
 straight from the GitHub GraphQL API, once a day.

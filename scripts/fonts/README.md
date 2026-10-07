@@ -17,7 +17,7 @@ Why inline it at all:
 
 | file | weight | covers |
 |---|---|---|
-| `jbmono-ramp.woff2` | 400 | the 13 ramp characters in `ascii.svg` |
+| `jbmono-ramp.woff2` | 400 | the 13 ramp characters in `dino.svg` |
 | `jbmono-head.woff2` | 600 | the letters used by the section headings |
 | `jbmono-400.woff2` | 400 | basic latin, for the stat graphics |
 | `jbmono-600.woff2` | 600 | basic latin, for the stat graphics |

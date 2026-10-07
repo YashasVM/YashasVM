@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Turn a photo into ascii.svg — a self-typing, monochrome ASCII portrait.
+"""Turn a photo into dino.svg — a self-typing, monochrome ASCII portrait.
 
 This is the generator that produced the portrait at the top of the README.
 Run it once; it is not on a schedule, unlike scripts/generate_stats.py.
@@ -147,7 +147,7 @@ def build_svg(lines, cols=COLS):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("photo")
-    ap.add_argument("out", nargs="?", default="ascii.svg")
+    ap.add_argument("out", nargs="?", default="dino.svg")
     ap.add_argument("--crop", help="left,top,right,bottom, applied first — crop "
                                    "tight to the head so the whole grid goes to "
                                    "the face")

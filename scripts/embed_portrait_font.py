@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Inline the ramp subset of JetBrains Mono into ascii.svg.
+"""Inline the ramp subset of JetBrains Mono into dino.svg.
 
 The portrait is a one-off artifact — a photo pushed through a character ramp —
 so unlike the stat graphics it isn't regenerated on a schedule. Run this after
@@ -28,7 +28,7 @@ FAMILY = ("JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,"
 
 def main():
     target = sys.argv[1] if len(sys.argv) > 1 else os.path.join(
-        os.path.dirname(HERE), "ascii.svg")
+        os.path.dirname(HERE), "dino.svg")
     with open(target, encoding="utf-8") as f:
         svg = f.read()
 
