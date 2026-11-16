@@ -1,5 +1,5 @@
 ```bash
-bb-1@arch:~$ ssh bb-1@192.168.1.5
+yvm@omarchy:~$ ssh bb-1@192.168.1.5
 ```
 
 *18-year-old tech enthusiast* from **ಬೆಂಗಳೂರು, ಕರ್ನಾಟಕ (Bengaluru, Karnataka)**.
