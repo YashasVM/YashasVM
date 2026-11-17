@@ -1,0 +1,22 @@
+name = "profile-visits"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+
+# Optional: bind a custom domain instead of the workers.dev URL
+# routes = [{ pattern = "visits.yash0.in", custom_domain = true }]
+
+[vars]
+BASE = "6000"
+
+[[durable_objects.bindings]]
+name = "COUNTER"
+class_name = "Counter"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Counter"]
+
+[[rules]]
+type = "Text"
+globs = ["**/*.svg"]
+fallthrough = true
